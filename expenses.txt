@@ -1,0 +1,4 @@
+19-09-2026,transportation,30.0
+19-09-2026,food,100.0
+19-09-2026,education,50.0
+20-09-2026,transportation,30.0
